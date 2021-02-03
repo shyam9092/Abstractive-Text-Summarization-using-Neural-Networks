@@ -2,7 +2,7 @@
 
 ## Guidelines 
 
->Study a significant machine learning problem/tool/application/theory\ 
+>Study a significant machine learning problem/tool/application/theory \
 >Explain how it work, best to demonstrate the basic working principle by an example\
 >Explain the structure of the problem solution approach and algorithm(s) employed\
 >Describe how to access the dataset, clearly specify the training and testing datasets (strongly encourage self-collected test datasets). Include results of both training and testing\ 
