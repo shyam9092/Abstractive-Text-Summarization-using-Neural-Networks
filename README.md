@@ -14,7 +14,7 @@
 
 > [Deep Learning Based Abstractive Text Summarization: Approaches, Datasets, Evaluation Measures, and Challenges](https://www.researchgate.net/publication/343836695_Deep_Learning_Based_Abstractive_Text_Summarization_Approaches_Datasets_Evaluation_Measures_and_Challenges)
 
-## Problem Statement (02/05)
+## Problem Statement (2 Points) (02/05)
 
 Format: 1-page ppt to include\
 • Concise description of the problem/application – be specific.\
