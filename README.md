@@ -6,7 +6,7 @@
 • Explain how it work, best to demonstrate the basic working principle by an example\
 • Explain the structure of the problem solution approach and algorithm(s) employed\
 • Describe how to access the dataset, clearly specify the training and testing datasets (strongly encourage self-collected test datasets). Include results of both   training and testing<br/>
-• Describe step by step how to implement the solution (include all technical details, such as system requirements, software packages, setup procedure, data source, papers used for modeling after, and more) In a nutshell, prepare your work to answer what, why and how questions on the subject you choose to study\ 
+• Describe step by step how to implement the solution (include all technical details, such as system requirements, software packages, setup procedure, data source, papers used for modeling after, and more) In a nutshell, prepare your work to answer what, why and how questions on the subject you choose to study
 
 ## Reference Research Paper 
 
@@ -35,7 +35,7 @@ Format: 1-page ppt to include\
 • Provide clear evidence when answering the above questions in the report<br/> 
 • Describe what examples you’re going to use for demonstration<br/>
 • Describe how you will be collecting your own data and demonstrate the results<br/>
-• Summarize your progress to date in a report of no more than 3 pages (it is fine if you have 2 pages) in IEEE article [template](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/)<br/>    
+• Summarize your progress to date in a report of no more than 3 pages (it is fine if you have 2 pages) in IEEE article [template](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/)<br/>   
 • In your report, clearly indicate what is under development and identify who is going to do what.
 
 ## Due Dates
