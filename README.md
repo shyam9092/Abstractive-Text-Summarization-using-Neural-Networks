@@ -26,8 +26,10 @@ Format: 1-page ppt to include\
 
 ## Progress Check 1 (5 points) (02/26)
 
-1.Provide a concise, concrete and clear problem formulation (can be updated from the previous 1-pager to be more accurate). Aim at clearly explaining a theory/application/tool to the audience, demonstrating how it works, and describing your expected results ( show-and-tell, use images and videos and other creative means). Avoid being too general or too narrow\ 
-2.Identify key literature, datasets (training and testing), implementation code (can be updated from previous version if necessary). 3.Describe procedures you take to set up simulations in your chosen system to establish the computation platform in order to demonstrate your project by answering the following questions:  • What is the computing platform to perform the computation\ 
+1.Provide a concise, concrete and clear problem formulation (can be updated from the previous 1-pager to be more accurate). Aim at clearly explaining a theory/application/tool to the audience, demonstrating how it works, and describing your expected results ( show-and-tell, use images and videos and other creative means). Avoid being too general or too narrow\
+2.Identify key literature, datasets (training and testing), implementation code (can be updated from previous version if necessary)\
+3.Describe procedures you take to set up simulations in your chosen system to establish the computation platform in order to demonstrate your project by answering the following questions\  
+• What is the computing platform to perform the computation\ 
 • How to install needed software environment\ 
 • Have you test run the code successfully (if the answer is no, there will be point deductions)\ 
 • Provide clear evidence when answering the above questions in the report\ 
