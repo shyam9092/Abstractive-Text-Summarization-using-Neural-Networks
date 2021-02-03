@@ -16,10 +16,11 @@ Describe step by step how to implement the solution (include all technical detai
 
 ## Problem Statement (02/05)
 
-Format: 1-page ppt to include•Concise description of the problem/application – be specific.\
-Specific references (1. Papers and/or book chapters, 2. online open-source datasets, 3. System requirement to simulate, 4. code...) \
-Expected outcomes (towards explaining how you are going to demonstrate your results in the end?) \
-Specify who is going to do what for the upcoming PC#1, what measures to use in case a member is not responsive
+Format: 1-page ppt to include\
+•Concise description of the problem/application – be specific.\
+•Specific references (1. Papers and/or book chapters, 2. online open-source datasets, 3. System requirement to simulate, 4. code...) \
+•Expected outcomes (towards explaining how you are going to demonstrate your results in the end?) \
+•Specify who is going to do what for the upcoming PC#1, what measures to use in case a member is not responsive
 
 
 ## Due Dates
