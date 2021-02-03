@@ -9,8 +9,8 @@
 
 ## Due Dates
 
-02/05: Problem statement due
-02/26: Progress check 1
-03/26: Progress check 2
-04/12: PPT file due
-04/27: Final report due
+> 02/05: Problem statement due
+> 02/26: Progress check 1
+> 03/26: Progress check 2
+> 04/12: PPT file due
+> 04/27: Final report due
