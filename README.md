@@ -28,14 +28,14 @@ Format: 1-page ppt to include\
 
 1.Provide a concise, concrete and clear problem formulation (can be updated from the previous 1-pager to be more accurate). Aim at clearly explaining a theory/application/tool to the audience, demonstrating how it works, and describing your expected results ( show-and-tell, use images and videos and other creative means). Avoid being too general or too narrow\
 2.Identify key literature, datasets (training and testing), implementation code (can be updated from previous version if necessary)\
-3.Describe procedures you take to set up simulations in your chosen system to establish the computation platform in order to demonstrate your project by answering the following questions\  
-• What is the computing platform to perform the computation\ 
-• How to install needed software environment\ 
-• Have you test run the code successfully (if the answer is no, there will be point deductions)\ 
-• Provide clear evidence when answering the above questions in the report\ 
-• Describe what examples you’re going to use for demonstration\
-• Describe how you will be collecting your own data and demonstrate the results\
-• Summarize your progress to date in a report of no more than 3 pages (it is fine if you have 2 pages) in IEEE article template [template] (https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/) \    
+3.Describe procedures you take to set up simulations in your chosen system to establish the computation platform in order to demonstrate your project by answering the following questions<br/>
+• What is the computing platform to perform the computation<br/> 
+• How to install needed software environment<br/>
+• Have you test run the code successfully (if the answer is no, there will be point deductions)<br/> 
+• Provide clear evidence when answering the above questions in the report<br/> 
+• Describe what examples you’re going to use for demonstration<br/>
+• Describe how you will be collecting your own data and demonstrate the results<br/>
+• Summarize your progress to date in a report of no more than 3 pages (it is fine if you have 2 pages) in IEEE article template [template](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/)<br/>    
 • In your report, clearly indicate what is under development and identify who is going to do what.
 
 ## Due Dates
