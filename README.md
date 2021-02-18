@@ -17,8 +17,11 @@
 ## Reference materials 
 
 > [Text Summarization using abstraction method](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/)
+
 > [What is Seq2Seq Model](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
+
 > [LSTM](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_source=blog&utm_medium=comprehensive-guide-text-summarization-using-deep-learning-python)
+
 > [Text Summarization using TextRank algorithm](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
 
 ## Problem Statement (2 Points) (02/05)
