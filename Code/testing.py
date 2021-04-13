@@ -463,6 +463,9 @@ def seq2text(input_seq):
     return newString
 
 
+precision_avg = 0.0
+recall_avg = 0.0
+fscore_avg = 0.0
 
 
 for i in range(0,100):
