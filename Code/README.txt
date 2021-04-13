@@ -44,7 +44,7 @@ Copy the following files using the scp command:
 5. inference_decoder_model1.pbtxt
 6. Reviews.csv
 
-$ gcloud compute scp training.py testing.py install.sh Reviews.csv example-instance:~/
+$ gcloud compute scp training.py testing.py install.sh Reviews.csv inference_encoder_model1.pbtxt inference_decoder_model1.pbtxtexample-instance:~/
 
 => Run the following command to install the depencies:
 
