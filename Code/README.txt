@@ -11,6 +11,7 @@ Current directory has structures like below.
 │   ├── inference_encoder_model1.pbtxt
 │   ├── inference_decoder_model1.pbtxt
 │   └── README.txt
+└── Rogue
 
 Steps to run training.py and testing.py
 --------------------------
@@ -21,6 +22,7 @@ inference_decoder_model1.pbtxt:     the source file which contains the trained w
 testing.py:                         the code which will test the summaries
 install.sh:                         the bash script which will install all the depencies for the model
 README.txt:                         the README file which contains the instructions for the project. 
+Rogue:                              the directory which contains the source code for calculating ROGUE scores.
 
 Follow steps to test the model:
 
