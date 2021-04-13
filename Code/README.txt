@@ -106,7 +106,13 @@ Total params: 18,051,609
 Trainable params: 18,051,609
 Non-trainable params: 0
 ______________________________________________________________inference_encoder_model1.pbtxt
+Epoch 1/40
 783/783 [==============================] - 1914s 2s/step - loss: 0.8330 - val_loss: 0.5035
+Epoch 2/40
+783/783 [==============================] - 1901s 2s/step - loss: 0.5039 - val_loss: 0.4657
+Epoch 3/40
+783/783 [==============================] - 1899s 2s/step - loss: 0.4708 - val_loss: 0.4492
+
 
 
 => Run the following command to run the testing phase of the model:
