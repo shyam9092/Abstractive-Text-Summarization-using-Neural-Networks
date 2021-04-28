@@ -1,5 +1,3 @@
-# EEE-511-Final-Team-Project
-
 ## Guidelines 
 
 • Study a significant machine learning problem/tool/application/theory \
